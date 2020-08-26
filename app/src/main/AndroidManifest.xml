@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nitc.iou_tracker">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon1"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
+        <activity android:name="com.nitc.iou_tracker.ManageGroup"></activity>
+        <activity android:name="com.nitc.iou_tracker.Delete_Group" />
+        <activity android:name="com.nitc.iou_tracker.ForgotPassword" />
+        <activity android:name="com.nitc.iou_tracker.Registration" />
+        <activity android:name="com.nitc.iou_tracker.Reminder" />
+        <activity android:name="com.nitc.iou_tracker.Update_Profile" />
+        <activity android:name="com.nitc.iou_tracker.checkBalance" />
+        <activity android:name="com.nitc.iou_tracker.paidTo" />
+        <activity android:name="com.nitc.iou_tracker.SplitBillActivity" />
+        <activity android:name="com.nitc.iou_tracker.SelectGroupActivity" />
+        <activity android:name="com.nitc.iou_tracker.CreateGroupActivity" />
+        <activity android:name="com.nitc.iou_tracker.HaveGroupActivity" />
+        <activity android:name="com.nitc.iou_tracker.HomeActivity" />
+        <activity android:name="com.nitc.iou_tracker.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

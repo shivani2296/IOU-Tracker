@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "694431009226",
+    "firebase_url": "https://iou-tracker-c624c.firebaseio.com",
+    "project_id": "iou-tracker-c624c",
+    "storage_bucket": "iou-tracker-c624c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694431009226:android:a4f50b570f0833acd5e733",
+        "android_client_info": {
+          "package_name": "com.nitc.iou_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694431009226-gl6vj26vc258ooli25b9c5vuajoh77dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nitc.iou_tracker",
+            "certificate_hash": "4f61128af9af846a0a35d2aaf760152169ecadde"
+          }
+        },
+        {
+          "client_id": "694431009226-bl86uesomf5madnog1oq89mprsgmdtvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoM5iHhtNGyjLogy3Zof12Wa36kgnRFPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694431009226-bl86uesomf5madnog1oq89mprsgmdtvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
